@@ -30,6 +30,8 @@ public class Laba extends HttpServlet {
             if (amal.equals("third")) {
                 z = 6*Math.pow(Math.sin(Math.abs(2*a)),Math.log10(b)) + Math.pow(c*Math.cosh((-1)*d),0.5);
             }
+            0igkpaedgjoidfdpfmblkfsmg;lekamgk
+                ;dkmflkmglekmr;pdm
 
             out.println("Result : " + z);
         }
